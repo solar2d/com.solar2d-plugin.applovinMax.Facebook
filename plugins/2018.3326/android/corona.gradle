@@ -4,7 +4,7 @@ repositories {
 }
 
 dependencies {
-  implementation 'com.applovin.mediation:facebook-adapter:6.11.0.5'
+  implementation 'com.applovin.mediation:facebook-adapter:6.16.0.0'
   implementation 'com.android.support:recyclerview-v7:28.+'
   implementation 'com.android.support:appcompat-v7:28.+'
 }
