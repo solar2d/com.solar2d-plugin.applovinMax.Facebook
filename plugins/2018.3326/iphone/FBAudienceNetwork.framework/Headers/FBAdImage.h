@@ -1,4 +1,10 @@
-// (c) Meta Platforms, Inc. and affiliates. Confidential and proprietary.
+/*
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ * All rights reserved.
+ *
+ * This source code is licensed under the license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
 
 #import <UIKit/UIKit.h>
 
@@ -19,11 +25,11 @@ FB_CLASS_EXPORT
 /**
  Typed access to the image width.
  */
-@property (nonatomic, assign, readonly) NSInteger width;
+@property (nonatomic, assign, readonly) CGFloat width;
 /**
  Typed access to the image height.
  */
-@property (nonatomic, assign, readonly) NSInteger height;
+@property (nonatomic, assign, readonly) CGFloat height;
 
 /**
  Initializes FBAdImage instance with given parameters.
@@ -32,7 +38,7 @@ FB_CLASS_EXPORT
  @param width the image width.
  @param height the image height.
  */
-- (instancetype)initWithURL:(NSURL *)url width:(NSInteger)width height:(NSInteger)height NS_DESIGNATED_INITIALIZER;
+- (instancetype)initWithURL:(NSURL *)url width:(CGFloat)width height:(CGFloat)height NS_DESIGNATED_INITIALIZER;
 
 /**
  Loads an image from self.url over the network, or returns the cached image immediately.

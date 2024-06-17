@@ -1,4 +1,10 @@
-// (c) Meta Platforms, Inc. and affiliates. Confidential and proprietary.
+/*
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ * All rights reserved.
+ *
+ * This source code is licensed under the license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
 
 #import <Foundation/Foundation.h>
 
@@ -7,9 +13,9 @@
 NS_ASSUME_NONNULL_BEGIN
 
 typedef NSString *FBAdExperienceType NS_STRING_ENUM;
-extern FBAdExperienceType const FBAdExperienceTypeRewarded;
-extern FBAdExperienceType const FBAdExperienceTypeInterstitial;
-extern FBAdExperienceType const FBAdExperienceTypeRewardedInterstitial;
+FB_EXPORT FBAdExperienceType const FBAdExperienceTypeRewarded;
+FB_EXPORT FBAdExperienceType const FBAdExperienceTypeInterstitial;
+FB_EXPORT FBAdExperienceType const FBAdExperienceTypeRewardedInterstitial;
 
 FB_CLASS_EXPORT
 /**

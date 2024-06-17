@@ -1,4 +1,10 @@
-// (c) Meta Platforms, Inc. and affiliates. Confidential and proprietary.
+/*
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ * All rights reserved.
+ *
+ * This source code is licensed under the license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
 
 #import <CoreMedia/CoreMedia.h>
 #import <Foundation/Foundation.h>
@@ -211,7 +217,8 @@ FB_CLASS_EXPORT FB_SUBCLASSING_RESTRICTED @interface FBRewardedVideoAd : NSObjec
 
  @param rewardedVideoAd A FBRewardedVideoAd object sending the message.
  */
-- (void)rewardedVideoAdServerRewardDidSucceed:(FBRewardedVideoAd *)rewardedVideoAd;
+- (void)rewardedVideoAdServerRewardDidSucceed:(FBRewardedVideoAd *)rewardedVideoAd
+    FB_DEPRECATED_WITH_MESSAGE("Functionality has been deprecated. This delegate method will not be called.");
 
 /**
  Sent if server call to publisher's reward endpoint did not return HTTP status code 200
@@ -220,13 +227,14 @@ FB_CLASS_EXPORT FB_SUBCLASSING_RESTRICTED @interface FBRewardedVideoAd : NSObjec
 
  @param rewardedVideoAd A FBRewardedVideoAd object sending the message.
  */
-- (void)rewardedVideoAdServerRewardDidFail:(FBRewardedVideoAd *)rewardedVideoAd;
+- (void)rewardedVideoAdServerRewardDidFail:(FBRewardedVideoAd *)rewardedVideoAd
+    FB_DEPRECATED_WITH_MESSAGE("Functionality has been deprecated. This delegate method will not be called.");
 
 /**
  Experimental Feature, DO NOT USE IN PRODUCTION!
 
 
- @param FBAdCompanionView should return a Companion View for the Interstitial Ad.
+ @param completion a block that returns a companion View for the Interstitial Ad.
  */
 - (void)rewardedVideoAdCompanionViewProvider:(void (^)(FBAdCompanionView *_Nullable))completion;
 

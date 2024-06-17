@@ -1,4 +1,10 @@
-// (c) Meta Platforms, Inc. and affiliates. Confidential and proprietary.
+/*
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ * All rights reserved.
+ *
+ * This source code is licensed under the license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
 
 /***
  * This is a bridge file for Audience Network Unity SDK.
@@ -75,10 +81,7 @@ typedef void (*FBAdBridgeErrorCallback)(uint32_t uniqueId, char const *error);
 @property (nonatomic, assign) FBAdBridgeCallback rewardedVideoAdDidLoadCallback;
 @property (nonatomic, assign) FBAdBridgeErrorCallback rewardedVideoAdDidFailWithErrorCallback;
 @property (nonatomic, assign) FBAdBridgeCallback rewardedVideoAdWillLogImpressionCallback;
-
 @property (nonatomic, assign) FBAdBridgeCallback rewardedVideoAdVideoCompleteCallback;
-@property (nonatomic, assign) FBAdBridgeCallback rewardedVideoAdServerRewardDidSucceedCallback;
-@property (nonatomic, assign) FBAdBridgeCallback rewardedVideoAdServerRewardDidFailCallback;
 
 - (instancetype)init NS_UNAVAILABLE;
 + (instancetype)new NS_UNAVAILABLE;

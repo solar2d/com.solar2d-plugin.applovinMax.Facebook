@@ -1,4 +1,10 @@
-// (c) Meta Platforms, Inc. and affiliates. Confidential and proprietary.
+/*
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ * All rights reserved.
+ *
+ * This source code is licensed under the license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
 
 #import <Foundation/Foundation.h>
 
@@ -155,7 +161,7 @@ FB_CLASS_EXPORT FB_SUBCLASSING_RESTRICTED @interface FBInterstitialAd : NSObject
 /**
   Experimental Feature, DO NOT USE IN PRODUCTION!
 
- @param FBAdCompanionView should return a Companion View for the Interstitial Ad.
+ @param completion a block returns a Companion View for the Interstitial Ad.
  */
 - (void)interstitialAdCompanionViewProvider:(void (^)(FBAdCompanionView *_Nullable))completion;
 

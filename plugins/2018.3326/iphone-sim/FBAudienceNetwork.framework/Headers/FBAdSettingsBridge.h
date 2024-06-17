@@ -1,4 +1,10 @@
-// (c) Meta Platforms, Inc. and affiliates. Confidential and proprietary.
+/*
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ * All rights reserved.
+ *
+ * This source code is licensed under the license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
 
 /***
  * This is a bridge file for Audience Network Unity SDK.
@@ -19,7 +25,6 @@ FB_EXTERN_C_BEGIN
 
 FB_EXPORT void FBAdSettingsBridgeAddTestDevice(char const *deviceID);
 FB_EXPORT void FBAdSettingsBridgeSetURLPrefix(char const *urlPrefix);
-FB_EXPORT void FBAdSettingsBridgeSetIsChildDirected(bool isChildDirected);
 FB_EXPORT void FBAdSettingsBridgeSetMixedAudience(bool mixedAudience);
 FB_EXPORT void FBAdSettingsBridgeSetAdvertiserTrackingEnabled(bool advertiserTrackingEnabled);
 FB_EXPORT void FBAdSettingsBridgeSetDataProcessingOptions(char const *_Nonnull options[_Nonnull], int length);
