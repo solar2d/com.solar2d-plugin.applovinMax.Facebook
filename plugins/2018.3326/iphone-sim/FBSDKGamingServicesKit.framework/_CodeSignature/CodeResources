@@ -6,43 +6,43 @@
 	<dict>
 		<key>Headers/FBSDKGamingServicesKit-Swift.h</key>
 		<data>
-		oiu7A/JHla8H+XBlONWWOb2GkP4=
+		CaJWosQMw/9CKzdYnYidYCcseB0=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		IWJqbb5rwTpLr5SjYiqQFvOfKT8=
+		nWBzVGSaPRWS8z3hbMqUpqoMNrE=
 		</data>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZgoOBq+q0VQh2ERxhJpZ7Tw7yTE=
+		RcfYODWKkwSfjquExaHk/cRIml8=
 		</data>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ScUyf+OoqC27gyGx87H3NrpCr2U=
+		01PLCCQbCXNQH/DHkI7ow7uy3nI=
 		</data>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		jC4TjMspHud5ihpaXcMH9cWLXqI=
+		4J0oO8PG18uamK00vTHDzX1dZec=
 		</data>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ScUyf+OoqC27gyGx87H3NrpCr2U=
+		01PLCCQbCXNQH/DHkI7ow7uy3nI=
 		</data>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZgoOBq+q0VQh2ERxhJpZ7Tw7yTE=
+		RcfYODWKkwSfjquExaHk/cRIml8=
 		</data>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		C66EMbizy7+kA9QnlIDSP/+BWq0=
+		IZlz4wSdt6kL4wg5JBpfaGNfSKk=
 		</data>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		TfK0VgijjRTkSROW5CBnHAUIm/M=
+		+ywIe6son9aYYivMIIu23f/9ZT4=
 		</data>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		C66EMbizy7+kA9QnlIDSP/+BWq0=
+		IZlz4wSdt6kL4wg5JBpfaGNfSKk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -55,99 +55,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oiu7A/JHla8H+XBlONWWOb2GkP4=
+			CaJWosQMw/9CKzdYnYidYCcseB0=
 			</data>
 			<key>hash2</key>
 			<data>
-			OZWijS6CKA0YWNJifipwYdUCufGx76MNRvij4SSuhnA=
+			+EO+Ymis0dnAV4JcnspgZ3XGY6ZpXO3RsJwNGbXjevo=
 			</data>
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZgoOBq+q0VQh2ERxhJpZ7Tw7yTE=
+			RcfYODWKkwSfjquExaHk/cRIml8=
 			</data>
 			<key>hash2</key>
 			<data>
-			SMQOpzMzEvBw3ZLYckgZ9lxkLmRUDRADBb/thbC89U4=
+			xU5/fentEmQB9yfV732WhvxAwPAjtFAjMHZByJEoFtE=
 			</data>
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ScUyf+OoqC27gyGx87H3NrpCr2U=
+			01PLCCQbCXNQH/DHkI7ow7uy3nI=
 			</data>
 			<key>hash2</key>
 			<data>
-			1g+lFHVMHy6fuPIEMGVFfFTZedCxSU0IIAdH0+jsYgU=
+			GG6PBCgGtfATSy1CzCUuj1t0M5VXPaJQjP5v0uwQgFc=
 			</data>
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jC4TjMspHud5ihpaXcMH9cWLXqI=
+			4J0oO8PG18uamK00vTHDzX1dZec=
 			</data>
 			<key>hash2</key>
 			<data>
-			kfsP45VH6sJV4WkjZKtt7BsiLyr3njZWnZB8zen/KjQ=
+			51brq8rJB9b5vUcYZo+ChVxq8a/Y/CsRfsrl15DIzp4=
 			</data>
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ScUyf+OoqC27gyGx87H3NrpCr2U=
+			01PLCCQbCXNQH/DHkI7ow7uy3nI=
 			</data>
 			<key>hash2</key>
 			<data>
-			1g+lFHVMHy6fuPIEMGVFfFTZedCxSU0IIAdH0+jsYgU=
+			GG6PBCgGtfATSy1CzCUuj1t0M5VXPaJQjP5v0uwQgFc=
 			</data>
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZgoOBq+q0VQh2ERxhJpZ7Tw7yTE=
+			RcfYODWKkwSfjquExaHk/cRIml8=
 			</data>
 			<key>hash2</key>
 			<data>
-			SMQOpzMzEvBw3ZLYckgZ9lxkLmRUDRADBb/thbC89U4=
+			xU5/fentEmQB9yfV732WhvxAwPAjtFAjMHZByJEoFtE=
 			</data>
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C66EMbizy7+kA9QnlIDSP/+BWq0=
+			IZlz4wSdt6kL4wg5JBpfaGNfSKk=
 			</data>
 			<key>hash2</key>
 			<data>
-			TaRPvapvYbgEsC0/6ySEN3LgIYaeaKahweMY1hdx+UY=
+			E8f+S1CqIxWm17YZhOw8OlDLMw7JLUZDG9KK0UYHwho=
 			</data>
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TfK0VgijjRTkSROW5CBnHAUIm/M=
+			+ywIe6son9aYYivMIIu23f/9ZT4=
 			</data>
 			<key>hash2</key>
 			<data>
-			05GpsFbYfUXqjA6F7OHGdgM/cRLgQDEejyEQV9f0Hfs=
+			8h5I41hZBbZ4+5DPR+GO40ihiM1KJHOQa6PIw1fTEe4=
 			</data>
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C66EMbizy7+kA9QnlIDSP/+BWq0=
+			IZlz4wSdt6kL4wg5JBpfaGNfSKk=
 			</data>
 			<key>hash2</key>
 			<data>
-			TaRPvapvYbgEsC0/6ySEN3LgIYaeaKahweMY1hdx+UY=
+			E8f+S1CqIxWm17YZhOw8OlDLMw7JLUZDG9KK0UYHwho=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

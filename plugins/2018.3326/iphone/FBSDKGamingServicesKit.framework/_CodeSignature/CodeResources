@@ -6,27 +6,27 @@
 	<dict>
 		<key>Headers/FBSDKGamingServicesKit-Swift.h</key>
 		<data>
-		xaF9V7EEP3tvTy/4Dq9C9aqHCzo=
+		Z30DRAxiaQ3ZSAHSUR5Z1CMmfYg=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		see64Wxr3Wc8QcZYXnmCr4npj1U=
+		96nP3Ej/Dmf6MVwuPrHfa0I0YHM=
 		</data>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		ZgoOBq+q0VQh2ERxhJpZ7Tw7yTE=
+		RcfYODWKkwSfjquExaHk/cRIml8=
 		</data>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		BO7bVMSfz6J2Ldk0KLAku615FDo=
+		W9fqQwN7e9gKstSLyEuiG3+ElqI=
 		</data>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		z7NcESVJHzTCEl5ds4xe+M2/z08=
+		Djd/MDcUdhwD7auqz+TxaWWUYgU=
 		</data>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		BO7bVMSfz6J2Ldk0KLAku615FDo=
+		W9fqQwN7e9gKstSLyEuiG3+ElqI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -39,55 +39,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xaF9V7EEP3tvTy/4Dq9C9aqHCzo=
+			Z30DRAxiaQ3ZSAHSUR5Z1CMmfYg=
 			</data>
 			<key>hash2</key>
 			<data>
-			Rv3AqCFi52X66V/+28eakRiy52y6VTya7oSfzhuY1UA=
+			WlZtuANPMWtRhkI+uiVdZWv6ADQUbnontSX201aCmV4=
 			</data>
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZgoOBq+q0VQh2ERxhJpZ7Tw7yTE=
+			RcfYODWKkwSfjquExaHk/cRIml8=
 			</data>
 			<key>hash2</key>
 			<data>
-			SMQOpzMzEvBw3ZLYckgZ9lxkLmRUDRADBb/thbC89U4=
+			xU5/fentEmQB9yfV732WhvxAwPAjtFAjMHZByJEoFtE=
 			</data>
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BO7bVMSfz6J2Ldk0KLAku615FDo=
+			W9fqQwN7e9gKstSLyEuiG3+ElqI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jnx6YLEWO+HBP0FyUnazjF6wdqeEV45wCr0+YByMBO0=
+			8neL8E6+ucEoBT/7uVEgO3CtGuORZUSuUGRaQ42bJnY=
 			</data>
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z7NcESVJHzTCEl5ds4xe+M2/z08=
+			Djd/MDcUdhwD7auqz+TxaWWUYgU=
 			</data>
 			<key>hash2</key>
 			<data>
-			0gGwV0BK/Fya7MDNuiDAkFFvvdDG9nxhuigsoXJc1VY=
+			/rkkMb7tPzHX7pJm280+oOZuITdHtKWJ2wR2x41temY=
 			</data>
 		</dict>
 		<key>Modules/FBSDKGamingServicesKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BO7bVMSfz6J2Ldk0KLAku615FDo=
+			W9fqQwN7e9gKstSLyEuiG3+ElqI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jnx6YLEWO+HBP0FyUnazjF6wdqeEV45wCr0+YByMBO0=
+			8neL8E6+ucEoBT/7uVEgO3CtGuORZUSuUGRaQ42bJnY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
